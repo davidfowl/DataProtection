@@ -1,15 +1,15 @@
 {
-    "version": "1.0.0-*",
-    "description": "ASP.NET 5 blob storage repository for DataProtection.",
-    "dependencies": {
-        "Microsoft.AspNet.Security.DataProtection": "1.0.0-*",
-        "WindowsAzure.Storage": "4.3.0"
-    },
-    "frameworks": {
-        "net451": {},
-        "aspnet50": {}
-    },
-    "compilationOptions": {
-        "warningsAsErrors": true
-    }
+  "version": "1.0.0-beta3",
+  "description": "ASP.NET 5 blob storage repository for DataProtection.",
+  "dependencies": {
+    "Microsoft.AspNet.Security.DataProtection": "1.0.0-beta3",
+    "WindowsAzure.Storage": "4.3.0"
+  },
+  "frameworks": {
+    "net451": {},
+    "aspnet50": {}
+  },
+  "compilationOptions": {
+    "warningsAsErrors": true
+  }
 }
