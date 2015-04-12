@@ -21,6 +21,7 @@
     },
     "compilationOptions": {
         "allowUnsafe": true,
-        "warningsAsErrors": true
+        "warningsAsErrors": true,
+        "define": [ "MONO" ]
     }
 }
